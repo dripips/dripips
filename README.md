@@ -84,15 +84,17 @@ const vadim = {
 
 ---
 
-## 🛠️ Что ещё открыто
+## 🎓 Из преподавательского периода
 
-| Repo | Что |
+Какое-то время я **учил студентов разработке** — большинство публичных репо ниже как раз оттуда. Они писались, чтобы разобрать архитектуру с нуля и заодно показать, как работать с git: ветки, PR, коммиты.
+
+| Repo | О чём |
 |---|---|
-| [FilmSearchTGBot](https://github.com/dripips/FilmSearchTGBot) | Telegram-бот для поиска фильмов через HDVB API (Python) |
-| [FinanceApp](https://github.com/dripips/FinanceApp) · [simple-blog](https://github.com/dripips/simple-blog) · [task-manager](https://github.com/dripips/task-manager) | Учебные мини-приложения на PHP+MySQL |
-| [OnlineLib](https://github.com/dripips/OnlineLib) · [ItCube](https://github.com/dripips/ItCube) · [TeacherCloud](https://github.com/dripips/TeacherCloud) | Образовательные веб-сервисы |
+| [FilmSearchTGBot](https://github.com/dripips/FilmSearchTGBot) | **Python** · Telegram-бот для поиска фильмов через HDVB API |
+| [FinanceApp](https://github.com/dripips/FinanceApp) · [simple-blog](https://github.com/dripips/simple-blog) · [task-manager](https://github.com/dripips/task-manager) | **PHP + MySQL** · мини-CRUD'ы для разбора с группой |
+| [OnlineLib](https://github.com/dripips/OnlineLib) · [ItCube](https://github.com/dripips/ItCube) · [TeacherCloud](https://github.com/dripips/TeacherCloud) | веб-сервисы про образование, на которых студенты тренировались |
 
-<sub>🔒 Большая часть моей работы остаётся за дверью — приватные репозитории, NDA, проекты в инкубации. Здесь — только то, что можно показать.</sub>
+<sub>🔒 Боевые проекты остаются за корпоративной стеной — приватные репозитории, NDA, инкубация. Публично — только то, что можно показать.</sub>
 
 ---
 
